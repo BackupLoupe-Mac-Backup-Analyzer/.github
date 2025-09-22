@@ -20,7 +20,7 @@ With an intuitive interface and detailed visual reports, BackupLoupe makes it ea
 
 BackupLoupe supports all modern versions of macOS and works seamlessly with Apple Silicon and Intel-based Macs. Whether you're a professional managing large datasets or a home user optimizing personal backups, BackupLoupe offers the clarity and control you need.
 
-![BackupLoupe Interface](https://static.macupdate.com/screenshots/299185/m/backuploupe-screenshot.png?v=1669059108)
+![BackupLoupe Interface](https://robservatory.com/postimages/coolapps/backuploupe/backuploupe.jpg)
 
 ---
 
